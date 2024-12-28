@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: pelatro
+Build-Jdk: 21.0.5
+Main-Class: com.maven.automation.testing.RunnerClass
+Created-By: Maven Integration for Eclipse
+
